@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Ravindu Hettiarachchi, aka Rav 🎯
+# 👋 Hey there! I'm Ravindu Hettiarachchi 🎯
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+coding+and+tech+💻;Loves+learning+new+things+🚀)
 
@@ -25,8 +25,9 @@
 
 ## 📈 GitHub Stats
 
-![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravindurrl&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindurrl&layout=compact)
+
 
 ## 🎵 Quote of the Day:
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
