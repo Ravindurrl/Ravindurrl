@@ -29,7 +29,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindurrl&layout=compact)
 
 ## 👀 Profile Views
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Ravindurrl.Ravindurrl)
+![Profile Views](https://komarev.com/ghpvc/?username=Ravindurrl)
 
 
 ## 🎵 Quote of the Day:
