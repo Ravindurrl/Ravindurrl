@@ -28,6 +28,9 @@
 ![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravindurrl&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindurrl&layout=compact)
 
+## 👀 Profile Views
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Ravindurrl.Ravindurrl)
+
 
 ## 🎵 Quote of the Day:
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
