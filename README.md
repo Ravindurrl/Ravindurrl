@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Ravindu Hettiarachchi (aka Rav) 🎯
+# 👋 Hello! I'm Ravindu Hettiarachchi 🎯
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+coding+and+tech+💻;Loves+learning+new+things+🚀)
 
