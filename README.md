@@ -5,9 +5,7 @@
 ## 🚀 About Me
 - 💻 **HND student** focused on **Software Development** and **Mobile App Design**
 - 🗃️ **Aspiring Database Administrator** and **Mobile App Developer**
-- 🛠️ Developer of **Internal Shop Management Systems** for local businesses
 - 📚 **Tech Explorer** with a passion for learning new technologies
-- 🧠 Holder of **certificates** in **SQL**, **API Testing**, and **AI Chatbot Development**
 - 🇱🇰 Based in **Sri Lanka**, working globally through the digital world
 
 ---
