@@ -3,10 +3,12 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+coding+and+tech+💻;Loves+learning+new+things+🚀)
 
 ## 🚀 About Me
-- 💻 **HND student** focused on **Software Development** and **Mobile App Design**
-- 🗃️ **Aspiring Database Administrator** and **Mobile App Developer**
-- 📚 **Tech Explorer** with a passion for learning new technologies
-- 🇱🇰 Based in **Sri Lanka**, working globally through the digital world
+- 💻 **HND student** focused on **Software Development** and **Mobile App Design** 
+- 📱 Experienced in designing **intuitive and user-friendly applications**, focusing on performance, scalability, and seamless user experiences.  
+- 💻 **Tech Explorer & Problem-Solver**, always eager to learn and apply emerging technologies such as **cloud computing, AI-driven solutions, and microservices architectures**.  
+- 🎯 Dedicated to **continuous learning**, professional growth, and delivering solutions that drive real-world impact.  
+- 🌍 Based in **Sri Lanka**, actively collaborating on projects with a **global vision** to contribute to the evolving digital landscape.  
+- 🤝 Open to **collaborations, internships, and innovative projects** that challenge creativity and technical expertise.  
 
 ---
 
