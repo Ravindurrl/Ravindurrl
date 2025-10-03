@@ -56,8 +56,8 @@
 
 ## 📊 GitHub Stats
 
-![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RavinduHettiarachchi49&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduHettiarachchi49&layout=compact)
+![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravindurrl&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindurrl&layout=compact)
 
 
 ---
