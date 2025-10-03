@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+coding+and+tech+💻;Loves+learning+new+things+🚀)
 
 ## 🚀 About Me
-- 💻 **HND student** focused on **Software Development** and **Mobile App Design** 
+- 💻 **HND student**  🎯 Interests**Software Development** and **Database Management**
 - 📱 Experienced in designing **intuitive and user-friendly applications**, focusing on performance, scalability, and seamless user experiences.  
 - 💻 **Tech Explorer & Problem-Solver**, always eager to learn and apply emerging technologies such as **cloud computing, AI-driven solutions, and microservices architectures**.  
 - 🎯 Dedicated to **continuous learning**, professional growth, and delivering solutions that drive real-world impact.  
