@@ -55,11 +55,11 @@
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en/microsoft-365/excel)
 
 
-
 ## 📊 GitHub Stats
 
-![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravindurrl&show_icons=true&theme=radical&count_private=true&v=2)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindurrl&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ravindurrl&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindurrl&layout=compact&theme=radical)
 
 
 ## 📚 Featured Projects
