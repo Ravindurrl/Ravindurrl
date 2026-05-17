@@ -58,8 +58,7 @@
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ravindurrl&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-![Top Languages](https://api.githubtrends.io/user/svg/Ravindurrl/langs?time_range=one_year&theme=dark)
+![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/top-langs/?username=Ravindurrl&layout=compact&theme=radical&langs_count=8)
 
 
 ## 📚 Featured Projects
