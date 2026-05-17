@@ -58,11 +58,9 @@
 
 ## 📊 GitHub Stats
 
-![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravindurrl&show_icons=true&theme=radical&count_private=true)  
+![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravindurrl&show_icons=true&theme=radical&count_private=true&v=2)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindurrl&layout=compact)
 
-
----
 
 ## 📚 Featured Projects
 
