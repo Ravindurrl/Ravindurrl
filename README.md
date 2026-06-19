@@ -88,7 +88,7 @@
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ravindurrl&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Ravindurrl&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
