@@ -88,8 +88,7 @@
 
 ## 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=Ravindurrl&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
----
+![Profile Views](https://visitcount.itsvg.in/api?id=Ravindurrl&label=Profile%20Views&color=1&icon=5&pretty=true)---
 
 ## 🔗 Connect with Me
 
