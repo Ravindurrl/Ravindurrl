@@ -57,11 +57,12 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ravindurrl&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app?user=Ravindurrl&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravindurrl&theme=github_dark" height="200" />
-
-
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravindurrl&theme=github_dark"
+  height="200"
+/>
 
 
 ## 📚 Featured Projects
@@ -86,7 +87,8 @@
 ---
 
 ## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Ravindurrl)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ravindurrl&color=blueviolet&style=for-the-badge)
 
 ---
 
