@@ -63,14 +63,6 @@
 
 [![GitHub Streak](https://streak-stats.vercel.app?user=Ravindurrl&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindurrl&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=1800"
-    alt="Top Languages"
-  />
-</p>
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravindurrl&theme=github_dark"
