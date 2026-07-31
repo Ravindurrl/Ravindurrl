@@ -1,4 +1,14 @@
-# 👋 Hello! I'm Ravindu Hettiarachchi 🎯
+## 👀 Welcome
+
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hello,+I'm+Ravindu+Hettiarachchi!;Welcome+to+my+GitHub+Profile!;Software+Engineer+%7C+Problem+Solver;Thanks+for+visiting!+🚀)](https://git.io/typing-svg)
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ravindurrl&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+coding+and+tech+💻;Loves+learning+new+things+🚀)
 
