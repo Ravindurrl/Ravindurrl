@@ -79,9 +79,8 @@
 
 ### 🔹 **ORETA UPVC Shop Management System**
 - **Description:** Designed and developed an internal shop management system for a Sri Lankan business.
-- **Features:** Inventory management, sales tracking, order processing, customer management.
-- **Tools Used:** `MySQL`, `C#`, `WPF`, `WinForms`, `Visual Studio`
-
+- **Features:** Inventory management, sales tracking, order processing, and customer management.
+- **Tools Used:** `PHP`, `JavaScript`, `MySQL`
 ---
 
 ## 🌱 I’m Currently Learning
